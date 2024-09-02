@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "brisa-3648202";
-const char* password = "zlcvwjxv";
+const char* ssid = "*****";
+const char* password = "*****";
 const int PINO_TRIG = 4; 
 const int PINO_ECHO = 2; 
 
